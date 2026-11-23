@@ -14,7 +14,7 @@ The target `num` (0–4) was converted to binary: 0 = no disease, 1 = disease.
 
 ## Live App
 
-https://YOUR-APP-NAME.streamlit.app
+https://projectmilestone2app-uybjueyzu4mhvtezfqclkj.streamlit.app/
 
 ## Repository Contents
 
